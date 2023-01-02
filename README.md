@@ -1,4 +1,4 @@
-<h1 align="center">License Generator</h1>
+<h1 align="center">License Generator</h1> 
 
 ![final](https://user-images.githubusercontent.com/102473837/210200111-54029bc3-faf6-4123-8164-ffe1afc03e01.gif)
 
@@ -42,3 +42,5 @@ gen-license
   git push origin fix/amazingFix
   ```
 - Open a pull request
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fits-ag%2Flicense-generator&count_bg=%2379C83D&title_bg=%23555555&icon=visualstudiocode.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
