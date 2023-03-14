@@ -1,6 +1,6 @@
 <h1 align="center">License Generator</h1> 
 
-![final](https://user-images.githubusercontent.com/102473837/210200111-54029bc3-faf6-4123-8164-ffe1afc03e01.gif)
+![iamagif](https://user-images.githubusercontent.com/102473837/210200111-54029bc3-faf6-4123-8164-ffe1afc03e01.gif)
 
 ### Overview
 
